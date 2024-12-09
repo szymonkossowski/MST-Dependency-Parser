@@ -3,7 +3,9 @@
     See <https://dsacl3-2023.github.io/project/> for detailed instructions.
 
     Nikita L. Beklemishev, Szymon T. Kossowski
-    Honour code: We pledge that this code represents our own work
+    Honour code: We pledge that the code in the methods
+    _find_cycle(), mst_parse() and evaluate() represents our own work
+    and we elicited no unauthorised aid in debugging the code.
 """
 import numpy as np
 import scorer
