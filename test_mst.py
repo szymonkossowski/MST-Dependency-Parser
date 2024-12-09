@@ -1,4 +1,5 @@
 """
+Test Cases for the mst.py class
 Nikita L. Beklemishev, Szymon T. Kossowski
 Honour code: We pledge that this code represents our own work
 """
