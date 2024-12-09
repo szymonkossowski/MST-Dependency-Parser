@@ -1,0 +1,6 @@
+.sass-cache/
+_site/
+.jekyll-metadata
+.jekyll-cache
+__pycache__/
+README.md
