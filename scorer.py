@@ -3,7 +3,7 @@
     See <https://dsacl3-2023.github.io/project/> for detailed instructions.
 
     Nikita L. Beklemishev, Szymon T. Kossowski
-    Honour code: We pledge that this code represents our own work
+    Honour code: We pledge that the code in the Scorer class represents our own work
 """
 import numpy as np
 from collections import Counter
