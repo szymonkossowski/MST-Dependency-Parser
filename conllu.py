@@ -1,3 +1,8 @@
+"""
+Class written by the lecturers (Çağrı Çöltekin, Darja Jepifanova, Giulio Cusenza), 
+keeping it here as it is necessary in order for the whole project to work.
+Szymon Kossowski
+"""
 #!/usr/bin/env python3
 import re
 
